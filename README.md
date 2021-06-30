@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi! 👋
 
+- 😎 I'm a VR/AR Developer focused on Social Experiences
+- 🎮 I'm currently working on two multiplayer VR games in Unity
+- 📫 You can reach me at: waleedamer@me.com
 <!--
 **WaleedAmer/WaleedAmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
