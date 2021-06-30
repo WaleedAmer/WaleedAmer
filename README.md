@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-- 😎 I'm a VR/AR Developer focused on Social Experiences
+- 😎 I'm a VR/AR Developer & Designer focused on Social Experiences
 - 🎮 I'm currently working on two multiplayer VR games in Unity
 - 📫 You can reach me at: waleedamer@me.com
 <!--
